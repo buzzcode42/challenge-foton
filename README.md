@@ -30,8 +30,8 @@ To install all dependencies run `yarn install or yarn` at the root
 
  - Fetch/pull the Develop Branch
  - Create a Branch based on your issue name
-  - e.g - Branch name is task/jsmw-(number)
-  - e.g - Branch name is bug/jsmw-(number)
+  - e.g - Branch name is task/fw-(number)
+  - e.g - Branch name is bug/fw-(number)
 - Once done push your branch to origin and submit a PR to the Develop branch for review 😘
 
-## All Rights Reserved for Juntos Somos Mais Fidelização S.A.
+## All Rights Reserved for Foton
